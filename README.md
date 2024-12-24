@@ -1,4 +1,21 @@
-# Ejercicios pair
+#  Pair Programming Python 
+
+Este repositorio contiene una serie de ejercicios prácticos diseñados para mejorar y consolidar habilidades en Python, así como habilidades para la programación en equipo. 
 
 
-Este es el repositorio de los ejercicios del modulo 1 realizados en modalidad de "pair programing".
+## 📂 Contenido del repositorio
+Entre las funciones desarrolladas están:
+
+- `Bucles for and while`
+- `Class`
+- `Funciones`
+- `Sentencias de control`
+- `Funciones con múltiples argumentos`
+- `Diccionarios,tuplas,listas`
+    
+
+## ✅ Programas utilizados
+- Python 3.12 
+- Visual Studio Code
+- Jupyter Notebook
+
